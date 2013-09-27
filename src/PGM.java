@@ -27,7 +27,7 @@ public class PGM {
 			br.close();
 		} catch (Exception e) {
 			System.out.println(e.toString());
-		}
+		} 
 	}
 
 	public void lire() {
